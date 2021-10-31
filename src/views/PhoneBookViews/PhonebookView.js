@@ -23,6 +23,7 @@ export default function PhonebookView() {
         <Section title="Contacts">
           <Filter />
           <ContactsList />
+          
         </Section>
       )}
     </div>

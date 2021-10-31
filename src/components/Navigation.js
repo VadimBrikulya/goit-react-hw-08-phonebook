@@ -7,12 +7,13 @@ const styles = {
   link: {
     display: "inline-block",
     textDecoration: "none",
-    padding: 12,
+    padding: 5,
     fontWeight: 700,
-    color: "#2A363B",
+    color: "white",
   },
   activeLink: {
-    color: "#E84A5F",
+    color: "greenyellow",
+    // outline: "3px solid teal"
   },
 };
 
